@@ -1,15 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E4429,50:006D32,100:39D353&height=180&section=header&text=AKSHAY%20RUSHI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=BACKEND%20%2F%20CLOUD%20%2F%20AI&descAlignY=68&descSize=16&descColor=39D353" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:061F14,35:0E4429,70:166534,100:39D353&height=210&section=header&text=AKSHAY%20RUSHI&fontSize=52&fontColor=FFFFFF&fontAlignY=39&animation=twinkling&desc=ENGINEERING%20SYSTEMS%20THAT%20SCALE%20%E2%80%A2%20THINK%20%E2%80%A2%20SHIP&descAlignY=64&descSize=15&descColor=86EFAC"
+width="100%"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=760&lines=%3E+building+systems+that+survive+the+happy+path;%3E+backend+%2B+cloud+%2B+AI;%3E+currently+shipping+Layr+%26+Behavioural+Companion;%3E+AWS+Certified+Cloud+Practitioner;%3E+probably+debugging+something+right+now" alt="Terminal status animation"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=820&lines=%3E+BACKEND+ARCHITECTURE+%2B+CLOUD+INFRASTRUCTURE;%3E+AI+ENGINEERING+%2B+PRODUCT+BUILDING;%3E+CURRENTLY+SHIPPING+LAYR+%26+BEHAVIOURAL+COMPANION;%3E+AWS+CERTIFIED+%7C+SYSTEMS+BUILDER;%3E+PROBABLY+DEBUGGING+SOMETHING+RIGHT+NOW"
+alt="Terminal typing animation"
+/>
 
-<br>
+<br><br>
 
 <table>
 <tr>
+
 <td align="center">
 
 <a href="https://linkedin.com/in/akshayrushi">
@@ -39,16 +46,16 @@
 <img src="https://komarev.com/ghpvc/?username=PhantomChillz&style=for-the-badge&color=238636&label=VISITORS"/>
 
 </td>
+
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E4429,50:26A641,100:39D353&height=3&section=header" width="90%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:0E4429,50:26A641,100:39D353&height=3&section=header"
+width="90%"
+/>
 
 </div>
 
@@ -107,7 +114,10 @@ And yes — I won a **national-level prompting competition before "prompt engine
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,50:26A641,100:0E4429&height=3&section=header" width="90%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,50:26A641,100:0E4429&height=3&section=header"
+width="90%"
+/>
 
 </div>
 
@@ -159,7 +169,10 @@ An AI-driven behavioural analysis platform combining real-time sensor data with 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=13&pause=1800&color=39D353&center=true&vCenter=true&width=650&lines=%5BOK%5D+backend+online;%5BOK%5D+cloud+infrastructure+online;%5BOK%5D+AI+experiments+running;%5BWARN%5D+sleep+module+not+found" alt="System status"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=13&pause=1800&color=39D353&center=true&vCenter=true&width=650&lines=%5BOK%5D+backend+online;%5BOK%5D+cloud+infrastructure+online;%5BOK%5D+AI+experiments+running;%5BWARN%5D+sleep+module+not+found"
+alt="System status"
+/>
 
 </div>
 
@@ -167,7 +180,10 @@ An AI-driven behavioural analysis platform combining real-time sensor data with 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E4429,50:26A641,100:39D353&height=3&section=header" width="90%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:0E4429,50:26A641,100:39D353&height=3&section=header"
+width="90%"
+/>
 
 </div>
 
@@ -216,7 +232,10 @@ Leading a **4-person engineering team** rebuilding a real-time order management 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,50:26A641,100:0E4429&height=3&section=header" width="90%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,50:26A641,100:0E4429&height=3&section=header"
+width="90%"
+/>
 
 </div>
 
@@ -316,9 +335,15 @@ Leading a **4-person engineering team** rebuilding a real-time order management 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS_CERTIFIED_CLOUD_PRACTITIONER-238636?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/AWS_CERTIFIED_CLOUD_PRACTITIONER-238636?style=for-the-badge&logo=amazonaws&logoColor=white"
+/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/CLF--C02-0D1117?style=for-the-badge&logo=amazonaws&logoColor=39D353"/>
+
+<img
+src="https://img.shields.io/badge/CLF--C02-0D1117?style=for-the-badge&logo=amazonaws&logoColor=39D353"
+/>
 
 </div>
 
@@ -326,7 +351,10 @@ Leading a **4-person engineering team** rebuilding a real-time order management 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E4429,50:26A641,100:39D353&height=3&section=header" width="90%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:0E4429,50:26A641,100:39D353&height=3&section=header"
+width="90%"
+/>
 
 </div>
 
@@ -347,8 +375,12 @@ ML-powered early-warning system analyzing environmental, weather and historical 
 
 <br>
 
-<a href="https://github.com/phantomChillz/disaster-prediction-system">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/PhantomChillz/DisasterPredictionSystem">
+
+<img
+src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"
+/>
+
 </a>
 
 </td>
@@ -364,7 +396,11 @@ No-code / low-code DAG-based trading orchestration engine with cycle detection, 
 <br>
 
 <a href="https://github.com/phantomChillz/Velocity_Trading-Orchestration-Platform">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"
+/>
+
 </a>
 
 </td>
@@ -380,7 +416,11 @@ AI knowledge hub with semantic document search using embeddings, cosine similari
 <br>
 
 <a href="https://github.com/phantomChillz/Athena">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"
+/>
+
 </a>
 
 </td>
@@ -400,7 +440,11 @@ A Notion-inspired productivity platform built around pages, blocks and workspace
 <br>
 
 <a href="https://github.com/phantomChillz/nova">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"
+/>
+
 </a>
 
 </td>
@@ -416,7 +460,11 @@ Personal finance platform that turns raw spending data into actionable financial
 <br>
 
 <a href="https://github.com/phantomChillz/EcoTrack">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"
+/>
+
 </a>
 
 </td>
@@ -432,7 +480,11 @@ Fully serverless ride-sharing application built using Lambda, API Gateway, Cogni
 <br>
 
 <a href="https://github.com/phantomChillz/wildrydes-site">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"
+/>
+
 </a>
 
 </td>
@@ -443,6 +495,7 @@ Fully serverless ride-sharing application built using Lambda, API Gateway, Cogni
 <br>
 
 <details>
+
 <summary><b>⌁ EXPAND PROJECT ARCHIVE</b></summary>
 
 <br>
@@ -459,7 +512,86 @@ Fully serverless ride-sharing application built using Lambda, API Gateway, Cogni
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,50:26A641,100:0E4429&height=3&section=header" width="90%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,50:26A641,100:0E4429&height=3&section=header"
+width="90%"
+/>
+
+</div>
+
+<br>
+
+## / RESEARCH & EMERGING COMPUTING
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top" bgcolor="#0D1117">
+
+### <font color="#39D353">⚛ QUANTUM COMPUTING</font>
+
+Exploring quantum computation through **Qiskit**, circuit simulation and quantum algorithms, with a focus on understanding both theoretical foundations and practical constraints of NISQ-era systems.
+
+<br>
+
+`Qiskit` `Qiskit Aer` `Amazon Braket`
+
+`Quantum Circuits` `Entanglement` `NISQ`
+
+`Grover` `QFT` `VQE` `QKD`
+
+<br>
+
+#### QGSS 2026 — Attendee
+
+Participated in the **Qiskit Global Summer School 2026**, exploring quantum programming, algorithms, hardware, noise and hybrid quantum-classical workflows.
+
+</td>
+
+<td width="50%" valign="top" bgcolor="#161B22">
+
+### <font color="#26A641">🧠 NEUROMORPHIC COMPUTING</font>
+
+Exploring **Spiking Neural Networks (SNNs)** and event-driven computation as an alternative paradigm for intelligent systems.
+
+<br>
+
+`PyTorch` `snnTorch`
+
+`Spiking Neural Networks`
+
+`Spike Encoding` `Event-Driven AI`
+
+`MNIST` `GPU Experiments`
+
+<br>
+
+Investigating how temporal spike-based representations can enable more efficient forms of neural computation and how they differ from conventional dense neural networks.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=2400&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%5BRESEARCH%5D+QUANTUM+%2B+NEUROMORPHIC;%5BEXPLORE%5D+NEW+COMPUTING+PARADIGMS;%5BBUILD%5D+WHERE+SOFTWARE+MEETS+HARDWARE"
+alt="Research animation"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:0E4429,50:26A641,100:39D353&height=3&section=header"
+width="90%"
+/>
 
 </div>
 
@@ -565,7 +697,10 @@ Fully serverless ride-sharing application built using Lambda, API Gateway, Cogni
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E4429,50:26A641,100:39D353&height=3&section=header" width="90%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,50:26A641,100:0E4429&height=3&section=header"
+width="90%"
+/>
 
 </div>
 
@@ -579,7 +714,11 @@ Fully serverless ride-sharing application built using Lambda, API Gateway, Cogni
 <td width="33%" align="center" bgcolor="#0D1117">
 
 <a href="https://github.com/PhantomChillz?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=39D353"/>
+
+<img
+src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=39D353"
+/>
+
 </a>
 
 </td>
@@ -587,7 +726,11 @@ Fully serverless ride-sharing application built using Lambda, API Gateway, Cogni
 <td width="34%" align="center" bgcolor="#161B22">
 
 <a href="https://github.com/PhantomChillz?tab=followers">
-<img src="https://img.shields.io/github/followers/PhantomChillz?style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=39D353&label=FOLLOWERS"/>
+
+<img
+src="https://img.shields.io/github/followers/PhantomChillz?style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=39D353&label=FOLLOWERS"
+/>
+
 </a>
 
 </td>
@@ -595,7 +738,11 @@ Fully serverless ride-sharing application built using Lambda, API Gateway, Cogni
 <td width="33%" align="center" bgcolor="#0D1117">
 
 <a href="https://github.com/PhantomChillz?tab=stars">
-<img src="https://img.shields.io/badge/STARS-161B22?style=for-the-badge&logo=github&logoColor=39D353"/>
+
+<img
+src="https://img.shields.io/badge/STARS-161B22?style=for-the-badge&logo=github&logoColor=39D353"
+/>
+
 </a>
 
 </td>
@@ -621,19 +768,19 @@ Consistency. Code. Commitment.
 <picture>
 
 <source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake-dark.svg"
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake-dark.svg"
 />
 
 <source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake.svg"
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake.svg"
 />
 
 <img
-  src="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="95%"
+src="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake.svg"
+alt="GitHub Contribution Snake"
+width="95%"
 />
 
 </picture>
@@ -644,7 +791,10 @@ Consistency. Code. Commitment.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:006D32,100:0E4429&height=120&section=footer" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:006D32,100:0E4429&height=120&section=footer"
+width="100%"
+/>
 
 <code>Built with passion. Optimized for impact.</code>
 
