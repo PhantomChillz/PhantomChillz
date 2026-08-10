@@ -8,29 +8,39 @@
 
 <br>
 
-<p align="center">
+<table>
+<tr>
+<td align="center">
 
 <a href="https://linkedin.com/in/akshayrushi">
-<b>LinkedIn</b>
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=39D353"/>
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+</td>
+
+<td align="center">
 
 <a href="mailto:rushiakshay@gmail.com">
-<b>Email</b>
+<img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=39D353"/>
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+</td>
+
+<td align="center">
 
 <a href="https://akshayportfolio-f16.pages.dev/">
-<b>Portfolio</b>
+<img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=googlechrome&logoColor=39D353"/>
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+</td>
 
-<img src="https://komarev.com/ghpvc/?username=PhantomChillz&style=flat-square&color=238636&label=VISITORS"/>
+<td align="center">
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=PhantomChillz&style=for-the-badge&color=238636&label=VISITORS"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -608,7 +618,25 @@ Consistency. Code. Commitment.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake.svg" alt="GitHub contribution snake" width="95%"/>
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/PhantomChillz/PhantomChillz/output/github-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="95%"
+/>
+
+</picture>
 
 </div>
 
